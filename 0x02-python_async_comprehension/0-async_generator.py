@@ -3,6 +3,7 @@
 import asyncio
 import random
 
+
 async def async_generator():
     """Async Generator"""
     for _ in range(10):
